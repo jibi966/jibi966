@@ -1,10 +1,4 @@
-### Hi there 👋
-
-hello
-### Jibin Babu
-
-
-
+### Hi, I'm Jibin 👋
 
 <!--
 **jibi966/jibi966** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
