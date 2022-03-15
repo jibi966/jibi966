@@ -1,5 +1,5 @@
 ### Hi, I'm Jibin 👋
-
+I'm a Full-stack web developer with a specialization in MERN Stack.
 <!--
 **jibi966/jibi966** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
