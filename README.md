@@ -33,7 +33,7 @@
 <p align="left" > <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="50" height="50"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="50" height="50"/> </a> <a href="https://heroku.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="50" height="50"/> </a> </p>
 
 <br/>
-
+<h2 align="left">👷 Stats so far</h2>
 <p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=jibi966&show_icons=true&locale=en&layout=compact" alt="jibi966" /></p>
 
 <p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=jibi966&show_icons=true&locale=en" alt="jibi966" /></p>
