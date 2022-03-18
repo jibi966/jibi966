@@ -3,7 +3,7 @@
 
 <br/>
 
-- 👨‍💻 All of my projects are available at [portfolio_link](portfolio_link)
+- 👨‍💻 All of my projects are available at [portfolio](https://portfolio-jibin-babu.vercel.app/)
 
 - 📫 Reach me on **jibinbabu966@gmail.com**
 
