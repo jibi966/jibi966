@@ -7,7 +7,7 @@
 
 - 📫 Reach me on **jibinbabu966@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1ffXOxxOtTIPQIaHqkO87mnoq8aB4pSTs/view?usp=sharing](https://drive.google.com/file/d/1ffXOxxOtTIPQIaHqkO87mnoq8aB4pSTs/view?usp=sharing)
+- 📄 Know about my experiences [https://drive.google.com/file/d/1ffXOxxOtTIPQIaHqkO87mnoq8aB4pSTs/view?usp=sharing](https://drive.google.com/file/d/1f_zNug222tb-JqPdNiCGJxJwEqi_GIx1/view?usp=sharing)
 
 <br/>
 
