@@ -9,9 +9,9 @@
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1ffXOxxOtTIPQIaHqkO87mnoq8aB4pSTs/view?usp=sharing](https://drive.google.com/file/d/1f_zNug222tb-JqPdNiCGJxJwEqi_GIx1/view?usp=sharing)
 
-- Interests Coding,Travelling,Music
+- Coding,Travelling,Music
 
-## Talk is Cheap, Show me the code.
+### Talk is Cheap, Show me the code.
 
 <br/>
 
