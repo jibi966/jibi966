@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Jibin Babu</h1>
-<h3 align="center">A passionate full stack web developer with a specialization in MERN Stack from India</h3>
+<h3 align="center">Full Stack Developer</h3>
 
 <br/>
 
