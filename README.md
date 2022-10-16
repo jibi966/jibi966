@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Jibin Babu</h1>
-<h3 align="center">Full Stack Developer</h3>
+<h3 align="center">Observant and intuitive problem-solver, full-stack developer with a specialization in MERN stack. Passionate about building user-centric products.</h3>
 
 <br/>
 
