@@ -7,7 +7,7 @@
 
 - 📫 Reach me on **jibinbabu966@gmail.com**
 
-- 📄 Know about my experiences [Resume](https://drive.google.com/drive/folders/1I9cej3w3NiFnMECw28mgKtE8VYOiaII5?usp=sharing)
+- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/14Pg9sxZV32ecEuCxDkie5ePKJp4s8Iml/view?usp=sharing)
 
 - 🎶 Coding,Travelling,Music
 
